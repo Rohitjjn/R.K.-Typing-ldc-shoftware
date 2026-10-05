@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "R.K. Typing Ldc v1.0.0",
+  "pub_date": "2026-10-05T04:44:25Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHRVbFhlVkFCYTF2UmZGUXN3S0VrdTJMMDUydjBlZVFNcXltR1pYY2xGenBQTDRzbk1HVDI1RnJHcXdoRDRMdld5SVV1M3NvZ3FVcTcrY3NBRXUxQXdOblpxcnpQY1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTgzODg0CWZpbGU6Ui5LLlR5cGluZy5MZGNfMS4wLjBfeDY0LXNldHVwLmV4ZQpOcFNCbktQMnNvelNseGdmSk5rUWxtM2V2UEc2NW4xc2lhcEprMEl6MDlpMTVqbU9rR091cFkySXZUYUlvbzROVVB4ckYyR045Tzd3WkxxUnRhVGlBQT09Cg==",
+      "url": "https://github.com/Rohitjjn/R.K.-Typing-ldc-shoftware/releases/download/v1.0.0/R.K.Typing.Ldc_1.0.0_x64-setup.exe"
+    },
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHRVbFhlVkFCYTE1dWc1NlpLSVgyNTlvdnJ1bVNDREJFdGY4ZEd3VklLYkFyOU5NQWdJWXNiVWhpeWVhVXpjTzN1eGd0QkdIVUtkZER3QldIY3ZtN1puaEYrUDNpa1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTgzNTA1CWZpbGU6Ui5LLlR5cGluZy5MZGNfMS4wLjBfeDg2LXNldHVwLmV4ZQpvMXNnVnJHNTVNOG0vVUQvRnNtTXRNY1NiUmdLeVlpSXdoV1VGZk1Gamk3OWlINTR6WWlSTTBsU1VoMzJ4dHlnMEkyUndMd3poRURDR0QxWldwOWxCUT09Cg==",
+      "url": "https://github.com/Rohitjjn/R.K.-Typing-ldc-shoftware/releases/download/v1.0.0/R.K.Typing.Ldc_1.0.0_x86-setup.exe"
+    }
+  }
+}
